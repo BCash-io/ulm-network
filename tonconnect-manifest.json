@@ -1,7 +1,7 @@
 {
     "url": "https://ulm-network.vercel.app",
     "name": "ULM Network",
-    "iconUrl": "https://ulm-network.vercel.app/logo.svg",            
+    "iconUrl": "https://raw.githubusercontent.com/BCash-io/ulm-network/refs/heads/main/ulm-logo.png",            
     "termsOfUseUrl": "https://ulm-network.vercel.app",     
     "privacyPolicyUrl": "https://ulm-network.vercel.app" 
 }
